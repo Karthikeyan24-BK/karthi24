@@ -282,7 +282,7 @@ h2{
 #insta{
 
     position: absolute;
-    top: 390px;
+    top: 350px;
     left:190px;
     font-size: 15px;
     color: darkblue;
@@ -292,7 +292,7 @@ h2{
 #linked{
     
     position: absolute;
-    top: 440px;
+    top: 400px;
     left:190px;
     font-size: 15px;
     color: blue;
@@ -304,7 +304,7 @@ h2{
 #git{
     
     position: absolute;
-    top: 485px;
+    top: 440px;
     left:190px;
     font-size: 15px;
     color: brown;
