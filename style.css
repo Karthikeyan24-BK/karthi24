@@ -63,7 +63,6 @@ h2{
 body{
     background-size: 180% 180%;
     animation:bgani 5s ease infinite;
-    /* background-repeat: no-repeat; */
     background-image: linear-gradient(300deg,rgb(85, 85, 240),rgb(255, 0, 187),rgb(138, 236, 100));
 
 }
@@ -197,7 +196,7 @@ h2{
     
 
 body{
-    background-size: 200% 300% ;
+    background-size: 300% 300% ;
     animation:bgani 3s ease infinite;
     background-repeat: no-repeat;
     background-image: linear-gradient(300deg,rgb(4, 4, 255),rgb(255, 0, 187),rgb(138, 236, 100));
